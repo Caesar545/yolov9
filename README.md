@@ -1,3 +1,7 @@
+# Security - Adversarial - Assessment
+This repository is a component of the Security Adversarial Assessment organization.  It is designed to be utilized within projects focusing on target detection neural networks, specifically located at the `detector/neural_networks` path within the organization's repository structure.
+
+---
 # YOLOv9
 
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
